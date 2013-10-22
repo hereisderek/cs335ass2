@@ -1,0 +1,464 @@
+<Products>
+  <Product>
+    <ProductID>1</ProductID>
+    <ProductName>Chai!</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>1</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>2</ProductID>
+    <ProductName>Chang</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>29</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>3</ProductID>
+    <ProductName>Aniseed Syrup</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>1</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>4</ProductID>
+    <ProductName>Chef Anton's Cajun Seasoning</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>2</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>5</ProductID>
+    <ProductName>Chef Anton's Gumbo Mix</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>2</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>6</ProductID>
+    <ProductName>Grandma's Boysenberry Spread</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>3</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>7</ProductID>
+    <ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+    <CategoryID>7</CategoryID>
+    <SupplierID>3</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>8</ProductID>
+    <ProductName>Northwoods Cranberry Sauce</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>3</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>9</ProductID>
+    <ProductName>Mishi Kobe Niku</ProductName>
+    <CategoryID>6</CategoryID>
+    <SupplierID>4</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>10</ProductID>
+    <ProductName>Ikura</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>4</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>11</ProductID>
+    <ProductName>Queso Cabrales</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>5</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>12</ProductID>
+    <ProductName>Queso Manchego La Pastora</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>5</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>13</ProductID>
+    <ProductName>Konbu</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>6</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>14</ProductID>
+    <ProductName>Tofu</ProductName>
+    <CategoryID>7</CategoryID>
+    <SupplierID>6</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>15</ProductID>
+    <ProductName>Genen Shouyu</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>6</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>16</ProductID>
+    <ProductName>Pavlova</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>7</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>17</ProductID>
+    <ProductName>Alice Mutton</ProductName>
+    <CategoryID>6</CategoryID>
+    <SupplierID>7</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>18</ProductID>
+    <ProductName>Carnarvon Tigers</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>7</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>19</ProductID>
+    <ProductName>Teatime Chocolate Biscuits</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>8</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>20</ProductID>
+    <ProductName>Sir Rodney's Marmalade</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>8</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>21</ProductID>
+    <ProductName>Sir Rodney's Scones</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>8</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>22</ProductID>
+    <ProductName>Gustaf's Knäckebröd</ProductName>
+    <CategoryID>5</CategoryID>
+    <SupplierID>9</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>23</ProductID>
+    <ProductName>Tunnbröd</ProductName>
+    <CategoryID>5</CategoryID>
+    <SupplierID>9</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>24</ProductID>
+    <ProductName>Guaraná Fantástica</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>10</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>25</ProductID>
+    <ProductName>NuNuCa Nuß-Nougat-Creme</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>11</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>26</ProductID>
+    <ProductName>Gumbär Gummibärchen</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>11</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>27</ProductID>
+    <ProductName>Schoggi Schokolade</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>11</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>28</ProductID>
+    <ProductName>Rössle Sauerkraut</ProductName>
+    <CategoryID>7</CategoryID>
+    <SupplierID>12</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>29</ProductID>
+    <ProductName>Thüringer Rostbratwurst</ProductName>
+    <CategoryID>6</CategoryID>
+    <SupplierID>12</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>30</ProductID>
+    <ProductName>Nord-Ost Matjeshering</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>13</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>31</ProductID>
+    <ProductName>Gorgonzola Telino</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>14</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>32</ProductID>
+    <ProductName>Mascarpone Fabioli</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>14</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>33</ProductID>
+    <ProductName>Geitost</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>15</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>34</ProductID>
+    <ProductName>Sasquatch Ale</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>16</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>35</ProductID>
+    <ProductName>Steeleye Stout</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>16</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>36</ProductID>
+    <ProductName>Inlagd Sill</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>17</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>37</ProductID>
+    <ProductName>Gravad lax</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>17</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>38</ProductID>
+    <ProductName>Côte de Blaye</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>18</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>39</ProductID>
+    <ProductName>Chartreuse verte</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>18</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>40</ProductID>
+    <ProductName>Boston Crab Meat</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>19</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>41</ProductID>
+    <ProductName>Jack's New England Clam Chowder</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>19</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>42</ProductID>
+    <ProductName>Singaporean Hokkien Fried Mee</ProductName>
+    <CategoryID>5</CategoryID>
+    <SupplierID>20</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>43</ProductID>
+    <ProductName>Ipoh Coffee</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>20</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>44</ProductID>
+    <ProductName>Gula Malacca</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>20</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>45</ProductID>
+    <ProductName>Rogede sild</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>21</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>46</ProductID>
+    <ProductName>Spegesild</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>21</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>47</ProductID>
+    <ProductName>Zaanse koeken</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>22</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>48</ProductID>
+    <ProductName>Chocolade</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>22</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>49</ProductID>
+    <ProductName>Maxilaku</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>23</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>50</ProductID>
+    <ProductName>Valkoinen suklaa</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>23</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>51</ProductID>
+    <ProductName>Manjimup Dried Apples</ProductName>
+    <CategoryID>7</CategoryID>
+    <SupplierID>24</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>52</ProductID>
+    <ProductName>Filo Mix</ProductName>
+    <CategoryID>5</CategoryID>
+    <SupplierID>24</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>53</ProductID>
+    <ProductName>Perth Pasties</ProductName>
+    <CategoryID>6</CategoryID>
+    <SupplierID>24</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>54</ProductID>
+    <ProductName>Tourtière</ProductName>
+    <CategoryID>6</CategoryID>
+    <SupplierID>25</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>55</ProductID>
+    <ProductName>Pâté chinois</ProductName>
+    <CategoryID>6</CategoryID>
+    <SupplierID>25</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>56</ProductID>
+    <ProductName>Gnocchi di nonna Alice</ProductName>
+    <CategoryID>5</CategoryID>
+    <SupplierID>26</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>57</ProductID>
+    <ProductName>Ravioli Angelo</ProductName>
+    <CategoryID>5</CategoryID>
+    <SupplierID>26</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>58</ProductID>
+    <ProductName>Escargots de Bourgogne</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>27</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>59</ProductID>
+    <ProductName>Raclette Courdavault</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>28</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>60</ProductID>
+    <ProductName>Camembert Pierrot</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>28</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>61</ProductID>
+    <ProductName>Sirop d'érable</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>29</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>62</ProductID>
+    <ProductName>Tarte au sucre</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>29</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>63</ProductID>
+    <ProductName>Vegie-spread</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>7</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>64</ProductID>
+    <ProductName>Wimmers gute Semmelknödel</ProductName>
+    <CategoryID>5</CategoryID>
+    <SupplierID>12</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>65</ProductID>
+    <ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>2</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>66</ProductID>
+    <ProductName>Louisiana Hot Spiced Okra</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>2</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>67</ProductID>
+    <ProductName>Laughing Lumberjack Lager</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>16</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>68</ProductID>
+    <ProductName>Scottish Longbreads</ProductName>
+    <CategoryID>3</CategoryID>
+    <SupplierID>8</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>69</ProductID>
+    <ProductName>Gudbrandsdalsost</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>15</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>70</ProductID>
+    <ProductName>Outback Lager</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>7</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>71</ProductID>
+    <ProductName>Flotemysost</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>15</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>72</ProductID>
+    <ProductName>Mozzarella di Giovanni</ProductName>
+    <CategoryID>4</CategoryID>
+    <SupplierID>14</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>73</ProductID>
+    <ProductName>Röd Kaviar</ProductName>
+    <CategoryID>8</CategoryID>
+    <SupplierID>17</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>74</ProductID>
+    <ProductName>Longlife Tofu</ProductName>
+    <CategoryID>7</CategoryID>
+    <SupplierID>4</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>75</ProductID>
+    <ProductName>Rhönbräu Klosterbier</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>12</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>76</ProductID>
+    <ProductName>Lakkalikööri</ProductName>
+    <CategoryID>1</CategoryID>
+    <SupplierID>23</SupplierID>
+  </Product>
+  <Product>
+    <ProductID>77</ProductID>
+    <ProductName>Original Frankfurter grüne Soße</ProductName>
+    <CategoryID>2</CategoryID>
+    <SupplierID>12</SupplierID>
+  </Product>
+</Products>

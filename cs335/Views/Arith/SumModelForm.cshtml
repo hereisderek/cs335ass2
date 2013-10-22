@@ -1,0 +1,19 @@
+﻿@model cs335.Models.Sum
+
+@{
+    ViewBag.Title = "SumModelForm";
+}
+
+<h2>SumModelForm</h2>
+
+@using (Html.BeginForm("SumModelForm", "Arith", FormMethod.Get))
+{
+   <p> M = @Html.TextBox("M", Model.N) </p>
+   <p> N = @Html.TextBox("N", Model.M) </p>
+   <p> M + N = @Model.Su </p>
+   <p> M - N = @Model.Mi </p>
+   <p> M * N = @Model.Mu </p>
+   <p> M / N = @Model.Di </p>
+   <p> M % N = @Model.Mo </p>
+   <input type="submit" value="eval" /> 
+}

@@ -1,0 +1,32 @@
+﻿
+@model IEnumerable<cs335.Models.JointProductModel>
+
+@{
+    ViewBag.Title = "HtmlObj";
+}
+
+<h2>HtmlObj</h2>
+
+<table>
+<thead>
+    <tr>
+    <th>ProductID</th>
+    <th>ProductName</th>
+    <th>CategoryName</th>
+    <th>CompanyName</th>
+    <th>Country</th>
+    </tr>
+</thead>
+
+<tbody>
+@foreach (var row in Model) {
+    <tr>
+        <td>@row.ProductID</td>
+        <td>@row.ProductName</td>
+        <td>@row.CategoryName</td>
+        <td>@row.CompanyName</td>
+        <td>@row.Country</td>
+    </tr>
+}
+</tbody>
+</table>

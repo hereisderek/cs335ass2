@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="cs335DB">
+  <DataContextMoniker Name="/cs335DBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f825bb15-6994-47fe-889a-c79b3ec3a7c8" absoluteBounds="0.75, 1.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/cs335DBDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d54734c1-03a9-46e4-a1e0-4ff83ecb57d6" absoluteBounds="0.765, 1.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b40fe86f-562b-44e2-9d30-83899f0c2c76" absoluteBounds="3.5, 1, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/cs335DBDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e80e6a8-b03b-4f58-875e-eb7902bff716" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66d952e9-d229-43fb-9183-4227aae1f19c" absoluteBounds="6.75, 2.625, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/cs335DBDataContext/Supplier" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e14d6837-1806-4888-80c6-967641848309" absoluteBounds="6.765, 3.085, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.28929768880208); (3.5 : 2.28929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/cs335DBDataContext/Category/Category_Product" />
+      <nodes>
+        <classShapeMoniker Id="f825bb15-6994-47fe-889a-c79b3ec3a7c8" />
+        <classShapeMoniker Id="b40fe86f-562b-44e2-9d30-83899f0c2c76" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.75 : 3.17870198567708); (5.5 : 3.17870198567708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/cs335DBDataContext/Supplier/Supplier_Product" />
+      <nodes>
+        <classShapeMoniker Id="66d952e9-d229-43fb-9183-4227aae1f19c" />
+        <classShapeMoniker Id="b40fe86f-562b-44e2-9d30-83899f0c2c76" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

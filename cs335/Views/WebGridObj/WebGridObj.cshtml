@@ -1,0 +1,20 @@
+﻿
+
+@model IEnumerable<cs335.Models.JointProductModel>
+
+@{
+    ViewBag.Title = "WebGridObj";
+}
+
+<h2>WebGridObj</h2>
+
+<div>
+
+@{
+    var grid = new WebGrid(null, columnNames: new[] { "ProductID", "ProductName", "CategoryName", "CompanyName", "Country" }, defaultSort: ViewBag.sort, rowsPerPage: ViewBag.rowsPerPage);
+    grid.Bind(Model, rowCount: ViewBag.count, autoSortAndPage: false);
+    @grid.GetHtml(columns: grid.Columns(grid.Column("ProductID"),grid.Column("ProductName"),grid.Column("CategoryName"),grid.Column("CompanyName"),grid.Column("Country" )))
+}
+    
+
+</div>

@@ -1,0 +1,147 @@
+<Suppliers>
+  <Supplier>
+    <SupplierID>1</SupplierID>
+    <CompanyName>Exotic Liquids</CompanyName>
+    <Country>UK</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>2</SupplierID>
+    <CompanyName>New Orleans Cajun Delights</CompanyName>
+    <Country>USA</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>3</SupplierID>
+    <CompanyName>Grandma Kelly's Homestead</CompanyName>
+    <Country>USA</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>4</SupplierID>
+    <CompanyName>Tokyo Traders</CompanyName>
+    <Country>Japan</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>5</SupplierID>
+    <CompanyName>Cooperativa de Quesos 'Las Cabras'</CompanyName>
+    <Country>Spain</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>6</SupplierID>
+    <CompanyName>Mayumi's</CompanyName>
+    <Country>Japan</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>7</SupplierID>
+    <CompanyName>Pavlova, Ltd.</CompanyName>
+    <Country>Australia</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>8</SupplierID>
+    <CompanyName>Specialty Biscuits, Ltd.</CompanyName>
+    <Country>UK</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>9</SupplierID>
+    <CompanyName>PB Knäckebröd AB</CompanyName>
+    <Country>Sweden</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>10</SupplierID>
+    <CompanyName>Refrescos Americanas LTDA</CompanyName>
+    <Country>Brazil</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>11</SupplierID>
+    <CompanyName>Heli Süßwaren GmbH &amp; Co. KG</CompanyName>
+    <Country>Germany</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>12</SupplierID>
+    <CompanyName>Plutzer Lebensmittelgroßmärkte AG</CompanyName>
+    <Country>Germany</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>13</SupplierID>
+    <CompanyName>Nord-Ost-Fisch Handelsgesellschaft mbH</CompanyName>
+    <Country>Germany</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>14</SupplierID>
+    <CompanyName>Formaggi Fortini s.r.l.</CompanyName>
+    <Country>Italy</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>15</SupplierID>
+    <CompanyName>Norske Meierier</CompanyName>
+    <Country>Norway</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>16</SupplierID>
+    <CompanyName>Bigfoot Breweries</CompanyName>
+    <Country>USA</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>17</SupplierID>
+    <CompanyName>Svensk Sjöföda AB</CompanyName>
+    <Country>Sweden</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>18</SupplierID>
+    <CompanyName>Aux joyeux ecclésiastiques</CompanyName>
+    <Country>France</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>19</SupplierID>
+    <CompanyName>New England Seafood Cannery</CompanyName>
+    <Country>USA</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>20</SupplierID>
+    <CompanyName>Leka Trading</CompanyName>
+    <Country>Singapore</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>21</SupplierID>
+    <CompanyName>Lyngbysild</CompanyName>
+    <Country>Denmark</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>22</SupplierID>
+    <CompanyName>Zaanse Snoepfabriek</CompanyName>
+    <Country>Netherlands</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>23</SupplierID>
+    <CompanyName>Karkki Oy</CompanyName>
+    <Country>Finland</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>24</SupplierID>
+    <CompanyName>G'day, Mate</CompanyName>
+    <Country>Australia</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>25</SupplierID>
+    <CompanyName>Ma Maison</CompanyName>
+    <Country>Canada</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>26</SupplierID>
+    <CompanyName>Pasta Buttini s.r.l.</CompanyName>
+    <Country>Italy</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>27</SupplierID>
+    <CompanyName>Escargots Nouveaux</CompanyName>
+    <Country>France</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>28</SupplierID>
+    <CompanyName>Gai pâturage</CompanyName>
+    <Country>France</Country>
+  </Supplier>
+  <Supplier>
+    <SupplierID>29</SupplierID>
+    <CompanyName>Forêts d'érables</CompanyName>
+    <Country>Canada</Country>
+  </Supplier>
+</Suppliers>

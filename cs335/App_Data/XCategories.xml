@@ -1,0 +1,38 @@
+<Categories>
+  <Category>
+    <CategoryID>1</CategoryID>
+    <CategoryName>Beverages</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>30</CategoryID>
+    <CategoryName>Biscuits</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>2</CategoryID>
+    <CategoryName>Condiments</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>3</CategoryID>
+    <CategoryName>Confections</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>4</CategoryID>
+    <CategoryName>Dairy Products</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>5</CategoryID>
+    <CategoryName>Grains/Cereals</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>6</CategoryID>
+    <CategoryName>Meat/Poultry</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>7</CategoryID>
+    <CategoryName>Produce</CategoryName>
+  </Category>
+  <Category>
+    <CategoryID>8</CategoryID>
+    <CategoryName>Seafood</CategoryName>
+  </Category>
+</Categories>
